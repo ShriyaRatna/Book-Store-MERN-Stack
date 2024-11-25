@@ -35,7 +35,7 @@ const BookModal = ({ book, onClose }) => {
           necessitatibus assumenda laboriosam, facilis iste cumque a pariatur
           nesciunt cupiditate voluptas? Quis atque earum voluptate dolor nisi
           dolorum est? Deserunt placeat cumque quo dicta architecto, dolore
-          vitae voluptate sequi repellat!
+          vitae voluptate sequi repellat! hiii
         </p>
       </div>
     </div>
